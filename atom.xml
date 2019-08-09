@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>To be better</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-09T05:59:13.878Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Guohua Qiu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我个人博客的第一篇博客,附带优秀学习网站</title>
+    <link href="http://yoursite.com/2019/08/10/%E6%88%91%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%93%88%E5%93%88%E5%93%88/"/>
+    <id>http://yoursite.com/2019/08/10/我个人博客的第一篇博客，哈哈哈/</id>
+    <published>2019-08-10T02:50:00.000Z</published>
+    <updated>2019-08-09T05:59:13.878Z</updated>
+    
+    <content type="html"><![CDATA[<p>晚上花了几个小时，趟了好多坑，不过顺利的建立起人生的第一个博客还是很开心的</p><a id="more"></a><h2 id="course"><a href="#course" class="headerlink" title="course:"></a>course:</h2><p>1.<a href="https://www.simon96.online/2018/10/12/hexo-tutorial/" target="_blank" rel="noopener">最全Hexo博客搭建+主题优化+插件配置+常用操作+错误分析</a><br>同时这也算是一个优秀博客网站的示例。<br>2.<a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">hexo框架官方文档</a><br>3.<a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">next主题官方文档</a><br>4.<a href="https://www.jianshu.com/p/e8e5addbbcfd" target="_blank" rel="noopener">Hexo+Next配置Blog</a><br>5.<a href="https://www.jianshu.com/p/f054333ac9e6?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation" target="_blank" rel="noopener">hexo的next主题个性化教程：打造炫酷网站</a><br>6.<a href="https://blog.csdn.net/lemonxq/article/details/72676005" target="_blank" rel="noopener">Hexo静态博客搭建+个人定制</a><br>7.<a href="https://www.jianshu.com/p/e8e5addbbcfd" target="_blank" rel="noopener">Hexo+Next配置Blog</a><br>8.<a href="https://www.jianshu.com/p/9f0e90cc32c2" target="_blank" rel="noopener">Hexo-NexT配置超炫网页效果</a></p><h2 id="good-example"><a href="#good-example" class="headerlink" title="good example:"></a>good example:</h2><p>1.<a href="https://www.simon96.online/2018/10/12/hexo-tutorial/" target="_blank" rel="noopener">遇见西门</a><br>2.<a href="https://weisongzhao.github.io/" target="_blank" rel="noopener">weisong</a><br>3.<a href="https://crayonnew.github.io/" target="_blank" rel="noopener">Nino’s blog</a></p><h2 id="book"><a href="#book" class="headerlink" title="book"></a>book</h2><p><a href="http://iissnan.com/progit/" target="_blank" rel="noopener">pro git书</a></p><h2 id="commands"><a href="#commands" class="headerlink" title="commands:"></a>commands:</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"我个人博客的第一篇博客，哈哈哈..."</span></span><br><span class="line">$ hexo s --debug   //调试网页</span><br><span class="line">$ hexo clean  //清理缓存</span><br><span class="line">$ hexo g    //重新生成博客代码</span><br><span class="line">$ hexo d   //部署到远端(github)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;晚上花了几个小时，趟了好多坑，不过顺利的建立起人生的第一个博客还是很开心的&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Course" scheme="http://yoursite.com/categories/Course/"/>
+    
+    
+      <category term="study" scheme="http://yoursite.com/tags/study/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
